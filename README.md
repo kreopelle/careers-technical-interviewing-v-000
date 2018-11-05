@@ -128,7 +128,7 @@ Technical aptitude is an important factor when interviewing so be sure to spend 
 - Sign up for [Interviewing.io](http://interviewing.io/) and start practicing for interviews.
 - Become familiar with [Big-O](https://www.interviewcake.com/article/java/big-o-notation-time-and-space-complexity). 
 - Find a whiteboard, pick a few questions out of Project Euler or Interview Cake, and test yourself. If you have any developer friends, ask them to do a mock whiteboard interview with you.
-- Read this blog post: [How to Make the Most Out of Your Technical Interview](http://blog.flatironschool.com/how-to-make-the-most-out-of-your-next-technical/)
+- Read this blog post: [How to Make the Most Out of Your Technical Interview](https://flatironschool.com/blog/how-to-make-the-most-out-of-your-next-technical-interview/)
 - [Read these coding interview tips](https://www.interviewcake.com/article/java/coding-interview-tips)
 - [Check out this blog on how to pass a programming interview](http://blog.triplebyte.com/how-to-pass-a-programming-interview)
 
